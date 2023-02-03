@@ -27,7 +27,7 @@ class PasswordGenerator{
      * @param string $letters
      * @param integer $length
      */
-    public function setSettings( string $method, int $length = 8 ){
+    public function setSettings( string $method, int $length = 8 ): void {
         $this->generateLetters(); 
         $this->generateNumbers();
 
