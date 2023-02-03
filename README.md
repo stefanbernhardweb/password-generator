@@ -5,6 +5,6 @@ This password generator provides two possibilities to build secure passwords:
 2. Password with letters, numbers and special chars (random)
 
 # Installation
-Just clone or download the project and use it in your local development environment like Xampp, Mamp, etc.
+Just clone or download the project and use it in your project.
 
 ![This is an image](https://i.ibb.co/9VpDq0z/password-generator.png)
