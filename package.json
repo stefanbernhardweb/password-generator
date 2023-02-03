@@ -1,0 +1,13 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "Generates a secure password with letters, numbers and special chars",
+  "scripts": {
+    "build": "sass styles/scss/style.scss styles/index.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.58.0"
+  }
+}
