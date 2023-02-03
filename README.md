@@ -6,3 +6,5 @@ This password generator provides two possibilities to build secure passwords:
 
 # Installation
 Just clone or download the project and use it in your local development environment like Xampp, Mamp, etc.
+
+![This is an image](https://i.ibb.co/26HR8Mh/password-generator.png)
